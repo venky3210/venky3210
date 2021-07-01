@@ -44,7 +44,7 @@ public class File2 {
 		else
 		{
 			break;
-		}		
+	}		
 	}
 	if(i<n)  // 6 < 6
 	{
